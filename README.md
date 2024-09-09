@@ -2,7 +2,9 @@
 ## Giới thiệu về dự án:
 
 ### Mục tiêu:
-        Dự án này nhằm xây dựng một mô hình phân loại vỏ cây dựa trên thuật toán Random Forest. Mô hình được huấn luyện trên một tập dữ liệu gồm các hình ảnh vỏ cây với nhãn tương ứng. Sau khi huấn luyện, mô hình         có khả năng dự đoán loại vỏ cây của một hình ảnh mới.
+        Dự án này nhằm xây dựng một mô hình phân loại vỏ cây dựa trên thuật toán Random Forest. 
+        Mô hình được huấn luyện trên một tập dữ liệu gồm các hình ảnh vỏ cây với nhãn tương ứng. Sau khi huấn luyện, 
+        mô hình có khả năng dự đoán loại vỏ cây của một hình ảnh mới.
 
 ### Dữ liệu: 
         Photos of tree bark from Quebec – BarkNet
