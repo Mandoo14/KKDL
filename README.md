@@ -1,9 +1,8 @@
 # Tên dự án: Phân loại vỏ cây bằng thuật toán Random Forest ( Rừng cây ngẫu nhiên)
 ## Giới thiệu về dự án:
-### Dự án này nhằm xây dựng một mô hình phân loại vỏ cây dựa trên thuật toán Random Forest. Mô hình được huấn luyện trên một tập dữ liệu gồm các hình ảnh vỏ cây với nhãn tương ứng. Sau khi huấn luyện, mô hình có khả năng dự đoán loại vỏ cây của một hình ảnh mới.
 
 ### Mục tiêu:
-#### Phân loại các hỉnh ảnh vỏ cây được đưa vào thuật toán 
+        Dự án này nhằm xây dựng một mô hình phân loại vỏ cây dựa trên thuật toán Random Forest. Mô hình được huấn luyện trên một tập dữ liệu gồm các hình ảnh vỏ cây với nhãn tương ứng. Sau khi huấn luyện, mô hình         có khả năng dự đoán loại vỏ cây của một hình ảnh mới.
 
 ### Dữ liệu: 
         Photos of tree bark from Quebec – BarkNet
