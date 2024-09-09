@@ -19,16 +19,16 @@
         và sinh thái học, giúp họ dễ dàng nhận dạng các loại vỏ cây và tiến hành các 
         nghiên cứu liên quan đến đặc điểm vỏ cây.
 #### Kích thước: 
-         Kích thước dữ liệu gốc là 31,5 GB (23.528 ảnh) bao gồm 12 class tương ứng với 
+        Kích thước dữ liệu gốc là 31,5 GB (23.528 ảnh) bao gồm 12 class tương ứng với 
         23 loại vỏ cây khác nhau.
-        • Trong nghiên cứu này đã lấy ra 3 class từ Dataset gốc. Các hình ảnh 
+        Trong nghiên cứu này đã lấy ra 3 class từ Dataset gốc. Các hình ảnh 
         được lấy từ 3 class khác nhau: 
             ERS: "Cây phong đường" với 1911 ảnh. 
             CHR: “Sồi đỏ phương bắc” với 2724 ảnh. 
             MEL: "Tamarack" với 1874 ảnh. 
-        • Với lượng hình ảnh tổng cộng 6509 ảnh do về mặt hạn chế dung lượng. Dataset 
+        Với lượng hình ảnh tổng cộng 6509 ảnh do về mặt hạn chế dung lượng. Dataset 
          bao gồm Train (4557), Valid (1302), Test (650).  
-        • Kích thước: 10,3 GB 
+        Kích thước mới: 10,3 GB 
         
 
 ### Quy trình thực hiện
